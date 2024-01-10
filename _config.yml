@@ -20,10 +20,10 @@
 
 title: hak42
 email: tanya.hakala@proton.me
-description: Tanya Hakala's blog site where she shares what she learns as she works on various geeky projects.
+description: Tanya Hakala's project documentation site.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hak42.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  hak42
+github_username: hak42 
 
 # Build settings
 theme: minima
