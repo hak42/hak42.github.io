@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "New Site! Learning Jekyll"
+date:   2024-01-09 20:31:51 -0500
+categories: jekyll hak42
+---
+Welcome to my new site. It doesn't look like much now, but I'm learning a lot. This site is where I plan on documenting project and things I learn along the way.
+
+This site is a Github Page and the pages are generated using Jekyll. I'm an old school web designer who started in the days before CSS even existed. Eventually we moved on to using Dreamweaver templates. I've spent the bulk of my last ten or so years creating sites in Drupal. Creating pages in Markdown is an interesting change!
+
+Tonight was spent setting up the initial site and running through the Jekyll tutorials. I had a few hang-ups that had me deleting and recreating files. I think most of the deleting and recreating didn't need to be done. It was a matter of following the right tuturials to get me where I needed to be. It also took me more than a moment to realize there is about a 10 minute delay to your live site after you push it to Github. The basic instructions for seeing your site in localhost didn't seem to work for me and I haven't put the time into figuring out why yet. Here is the tutorial order that seems to be working for me:
+
+- [Creating a GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+- [Managing a custom domain for your GitHub Pages site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#configuring-a-subdomain)
+- [Jekyll Step by Step Tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/)
+
+At this point, I've finished step six of the Jekyll tutorial. I feel like I'm starting to get somewhere. Even though the site is pretty ugly at the moment and you can't even find this post yet! It feels good to get it started though.
